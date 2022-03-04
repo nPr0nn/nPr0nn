@@ -6,9 +6,8 @@
   
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nPr0nn&theme=radical&layout=compact" style="max-           width:100%;" height="180em"> -->
  
-   <a>
+   
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?nPr0nn=anuraghazra&repo=github-readme-stats" alt="Meus Stats do Github" />
-   </a>
    <a>
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?nPr0nn=anuraghazra&repo=convoychat" />
    </a>

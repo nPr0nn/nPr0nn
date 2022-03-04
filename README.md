@@ -13,6 +13,6 @@
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?nPr0nn=anuraghazra&repo=convoychat" />
    </a>
  
-   <img align="center" alt="nPr0nn" src="https://github-readme-streak-stats.herokuapp.com?user=OgabrielPereira&theme=radical" style="max-width:100%;">
+<!--    <img align="center" alt="nPr0nn" src="https://github-readme-streak-stats.herokuapp.com?user=OgabrielPereira&theme=radical" style="max-width:100%;"> -->
    
 </div>

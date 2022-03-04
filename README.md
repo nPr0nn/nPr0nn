@@ -16,15 +16,27 @@ I'm currently studying computer engineering at university and interested in game
 </div>
 
 <hr>
-</br>
+<h3 align="center"> My github stats:</h3>
 <div align="center">
   <img height="182em" src="https://github-readme-stats.vercel.app/api?username=nPr0nn&show_icons=true&theme=radical&line_height=27"/>
   <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nPr0nn&theme=synthwave&layout=compact"/>
 </div>
+<div align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nPr0nn&theme=radical" height="200em"/>
+</div>
+
 </br>
 <hr>
 
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=lucasnogueira.github.io&theme=synthwave" height="130em" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nPr0nn&theme=radical" height="150em"/>
+<div align="center"> <h3>Let's get in touch:</h3>
+  <a href="https://twitter.com/nPr0nn" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/npr0nn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lucasnogueira064@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://npr0nn.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-f35a5c?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+<div>
 </div>

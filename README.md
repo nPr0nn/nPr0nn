@@ -6,10 +6,10 @@
   
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nPr0nn&theme=radical&layout=compact" style="max-           width:100%;" height="180em"> -->
  
-   <a href="https://github.com/anuraghazra/github-readme-stats">
+   <a>
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?nPr0nn=anuraghazra&repo=github-readme-stats" alt="Meus Stats do Github" />
    </a>
-   <a href="https://github.com/anuraghazra/convoychat">
+   <a>
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?nPr0nn=anuraghazra&repo=convoychat" />
    </a>
  

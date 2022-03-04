@@ -35,7 +35,7 @@ I'm currently studying computer engineering at university and interested in game
    <a href="https://npr0nn.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-f35a5c?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/lucas-nogueira-079a69160/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/nPr0nn/nPr0nn/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <div>

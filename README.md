@@ -9,5 +9,5 @@
 
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nPr0nn&theme=radical" style="max-width:50%"  height="150em"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=lucasnogueira.github.io&theme=synthwave" style="max-width:1%"  height="100em" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=lucasnogueira.github.io&theme=synthwave" width="400em" />
 </div>

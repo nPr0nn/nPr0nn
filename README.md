@@ -5,13 +5,11 @@ I'm currently studying computer engineering and interested in game and web devel
 
 <img align="right" src="https://media3.giphy.com/media/qQRfz2VfUbDeebczif/giphy.gif?cid=ecf05e47cy24qpjp0xfikzpoe3btqhabb9v47qzgzshrl7xv&rid=giphy.gif&ct=g" width="100" height="100" />
 
-
-
-
 - Topic 1
 - Topic 2
 
------
+<hr>
+</br>
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="182em" src="https://github-readme-stats.vercel.app/api?username=nPr0nn&show_icons=true&theme=radical&line_height=27"/>

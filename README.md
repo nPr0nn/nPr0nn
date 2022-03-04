@@ -17,7 +17,7 @@ I'm currently studying computer engineering at university and interested in game
 
 <hr>
 </br>
-<div align="center"><h3>Favorite Languages and Tools:</h3>
+<div align="center">
   <img height="182em" src="https://github-readme-stats.vercel.app/api?username=nPr0nn&show_icons=true&theme=radical&line_height=27"/>
   <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nPr0nn&theme=synthwave&layout=compact"/>
 </div>

@@ -8,6 +8,6 @@
 </br>
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=lucasnogueira.github.io&theme=synthwave" height="130em" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nPr0nn&theme=radical" style="max-width:50%"  height="150em"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=lucasnogueira.github.io&theme=synthwave" height="140em" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nPr0nn&theme=radical" style="max-width:50%"  height="140em"/>
 </div>

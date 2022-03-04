@@ -1,5 +1,13 @@
 <h2 align="center"> Hello There! Welcome to my Github! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h2>
 
+I'm currently studying computer engineering and interested in game and web development. Mostly into rendering, physiscs engines, simulations and computer graphics :)
+
+
+<img align="right" src="https://media3.giphy.com/media/qQRfz2VfUbDeebczif/giphy.gif?cid=ecf05e47cy24qpjp0xfikzpoe3btqhabb9v47qzgzshrl7xv&rid=giphy.gif&ct=g" width="150" height="150" />
+
+
+
+
 - Topic 1
 - Topic 2
 

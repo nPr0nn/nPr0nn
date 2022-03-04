@@ -6,6 +6,6 @@
   
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nPr0nn&theme=radical&layout=compact" style="max-           width:100%;" height="180em">
  
-   <img align="left" alt="nPr0nn" src="https://github-readme-streak-stats.herokuapp.com?user=OgabrielPereira&theme=radical" style="max-width:100%;" width="430" align="middle">
+   <img align="left" alt="nPr0nn" src="https://github-readme-streak-stats.herokuapp.com?user=OgabrielPereira&theme=radical" style="max-width:100%;" width="430">
    
 </div>

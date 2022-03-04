@@ -8,6 +8,4 @@
  
    <img alt="nPr0nn" src="https://github-readme-streak-stats.herokuapp.com?user=nPr0nn&theme=radical" style="max-width:100%;" width="430" align="middle">
  
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nPr0nn&show_icons=true&theme=synthwave&line_height=27" alt="Meus       Stats do Github" style="max-width:100%;" height="180em">
- </a>
 </div>

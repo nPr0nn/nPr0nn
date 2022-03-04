@@ -12,7 +12,7 @@
 </br>
 
 <div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=OgabrielPereira&theme=radical" style="max-width:100%"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=OgabrielPereira&theme=radical" style="max-width:100%"  height="180em"/>
 <!--    <img align="center" alt="nPr0nn" src="https://github-readme-streak-stats.herokuapp.com?user=OgabrielPereira&theme=radical" style="max-width:100%;"> -->
    
 </div>

@@ -3,7 +3,7 @@
 I'm currently studying computer engineering and interested in game and web development. Mostly into rendering, physiscs engines, simulations and computer graphics :)
 
 
-<img align="right" src="https://media3.giphy.com/media/qQRfz2VfUbDeebczif/giphy.gif?cid=ecf05e47cy24qpjp0xfikzpoe3btqhabb9v47qzgzshrl7xv&rid=giphy.gif&ct=g" width="150" height="150" />
+<img align="right" src="https://media3.giphy.com/media/qQRfz2VfUbDeebczif/giphy.gif?cid=ecf05e47cy24qpjp0xfikzpoe3btqhabb9v47qzgzshrl7xv&rid=giphy.gif&ct=g" width="100" height="100" />
 
 
 

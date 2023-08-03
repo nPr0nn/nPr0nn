@@ -18,7 +18,7 @@ I'm currently studying computer engineering at university of campinas (UNICAMP) 
 <hr>
 <h3 align="center"> My github stats:</h3>
 <div align="center">
-  <img height="182em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nPr0nn&theme=radical&line_height=27"/>
+  <img height="182em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nPr0nn&theme=radical&line_height=27&hide=css"/>
   <img height="182em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nPr0nn&theme=synthwave&layout=compact"/>
 </div>
 <div align="center">

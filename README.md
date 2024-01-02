@@ -10,16 +10,14 @@ I'm currently studying computer engineering at university of campinas (UNICAMP) 
   <img align="center" alt="Icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<!--   <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
 </div>
 
 <hr>
 <h3 align="center"> My github stats:</h3>
 <div align="center">
-  <img height="182em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nPr0nn&show_icons=true&theme=radical&line_height=27"/>
-  <img height="182em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nPr0nn&theme=synthwave&layout=compact"/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nPr0nn&theme=dark&show_icons=true)
+<!--   <img height="182em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nPr0nn&show_icons=true&theme=radical&line_height=27"/>
+  <img height="182em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nPr0nn&theme=synthwave&layout=compact"/> -->
 </div>
 <div align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nPr0nn&theme=radical" height="200em"/>

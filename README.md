@@ -15,22 +15,14 @@ I'm currently studying computer engineering at university of campinas (UNICAMP) 
 <hr>
 <h3 align="center"> My github stats:</h3>
 
-```html
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-```
-
-<!-- <div align="center">
-  <img height="182em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nPr0nn&show_icons=true&theme=radical&line_height=27"/>
-  <img height="182em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nPr0nn&theme=synthwave&layout=compact"/>
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<!--   <img height="182em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nPr0nn&show_icons=true&theme=radical&line_height=27"/> -->
+<!--   <img height="182em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nPr0nn&theme=synthwave&layout=compact"/> -->
 </div>
 <div align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nPr0nn&theme=radical" height="200em"/>
-</div> -->
+</div>
 
 </br>
 <hr>

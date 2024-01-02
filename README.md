@@ -16,8 +16,10 @@ I'm currently studying computer engineering at university of campinas (UNICAMP) 
 <h3 align="center"> My github stats:</h3>
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-<!--   <img height="182em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nPr0nn&show_icons=true&theme=radical&line_height=27"/> -->
+<!--     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" /> -->
+<!--   https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical -->
+  
+  <img height="182em" src="https://github-readme-stats.vercel.app/api?username=nPr0nn&show_icons=true&theme=radical&line_height=27"/>
 <!--   <img height="182em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nPr0nn&theme=synthwave&layout=compact"/> -->
 </div>
 <div align="center">

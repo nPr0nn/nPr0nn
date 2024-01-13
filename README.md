@@ -82,7 +82,7 @@
 </a>
 
 <a href="https://github.com/nPr0nn/TrashDetection">
-  <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=TrashDetection&theme=radical&border_radius=20"/>
+  <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=TrashDetection&theme=dracula&border_radius=20"/>
 </a>
 
 <a href="https://github.com/nPr0nn/Dungeon-and-Wumpus">

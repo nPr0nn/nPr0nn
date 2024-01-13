@@ -8,8 +8,9 @@
 
 <img align="right" src="https://media3.giphy.com/media/qQRfz2VfUbDeebczif/giphy.gif?cid=ecf05e47cy24qpjp0xfikzpoe3btqhabb9v47qzgzshrl7xv&rid=giphy.gif&ct=g" width="120" height="120" />
 
-## **💬 My skills:**
+## 🎯 **My skills:**
 <details>
 <summary>Languagues</summary>
-<img align="center" alt="Icon-CSS" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<!-- <img align="center" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> -->
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 </details>

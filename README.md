@@ -11,5 +11,5 @@
 ## **💬 My skills:**
 <details>
 <summary>Languagues</summary>
-<img align="center" alt="Icon-CSS" height="30" width="40" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="Icon-CSS" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 </details>

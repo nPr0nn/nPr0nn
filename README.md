@@ -84,6 +84,9 @@
   <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=Dungeon-and-Wumpus&theme=synthwave&border_radius=20"/>
 </a>
 
+<a href="https://github.com/nPr0nn/Serendipity">
+  <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=Serendipity&theme=synthwave&border_radius=20"/>
+</a>
 
 
 ## 📊 **My Stats**

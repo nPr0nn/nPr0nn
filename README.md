@@ -1,5 +1,10 @@
 <h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello! I'm Lucas, welcome to my Github! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h2>
 
+<a href="https://github.com/nPr0nn">
+    <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=nPr0nn&cc=141321&tc=FE428E&ic=fff&bc=0000">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nPr0nn&hide=Jupyter%20Notebook,GDScript,VHDL,verilog,Systemverilog,TeX,shell,css&layout=compact&langs_count=10&theme=synthwave"/>
+</a>
+
 ## 🕹️ **About me** 
 * I'm 21 years old!
 * Currently studying computer engineering at university of campinas (UNICAMP) and doing undergrad AI research
@@ -93,10 +98,6 @@
 <br>
   <img height="182em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nPr0nn&show_icons=true&theme=radical&line_height=27"/>
 <br>
-<a href="https://github.com/nPr0nn">
-    <img height="150" src="https://github-stats-alpha.vercel.app/api?username=nPr0nn&cc=141321&tc=FE428E&ic=fff&bc=0000">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nPr0nn&hide=Jupyter%20Notebook,GDScript,VHDL,verilog,Systemverilog,TeX,shell,css&layout=compact&langs_count=10&theme=synthwave"/>
-</a>
 
 
 <div align="center"> <h3> 🌟 Let's get in touch 💫 </h3>

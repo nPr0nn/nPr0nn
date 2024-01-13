@@ -92,8 +92,12 @@
 ## 📊 **My Stats**
 <br>
   <img height="182em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nPr0nn&show_icons=true&theme=radical&line_height=27"/>
-  <img height="182em" src="https://github-readme-stats.vercel.app/api?username=nPr0nn&show_icons=true&theme=radical&line_height=27"/>
 <br>
+<a href="https://github.com/nPr0nn">
+    <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=nPr0nn&theme=synthwave">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nPr0nn&hide=Jupyter%20Notebook,VHDL,verilog,Systemverilog,TeX,shell,css&layout=compact&langs_count=10&theme=synthwave"/>
+</a>
+
 
 <div align="center"> <h3> 🌟 Let's get in touch 💫 </h3>
   <a href="https://twitter.com/nPr0nn" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>

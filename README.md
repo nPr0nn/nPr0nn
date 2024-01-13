@@ -1,10 +1,8 @@
 <h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello! I'm Lucas, welcome to my Github! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h2>
 
 <div align="center">
-    <a href="https://github.com/nPr0nn">
-        <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=nPr0nn&cc=141322&tc=FE428E&ic=fff&bc=0000">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nPr0nn&hide=Jupyter%20Notebook,GDScript,VHDL,verilog,Systemverilog,TeX,shell,css&layout=compact&langs_count=10&theme=synthwave"/>
-    </a>
+    <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=nPr0nn&cc=141321&tc=FE428E&ic=fff&bc=0000">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nPr0nn&hide=Jupyter%20Notebook,GDScript,VHDL,verilog,Systemverilog,TeX,shell,css&layout=compact&langs_count=10&theme=synthwave"/>
 </div>
 
 ## 🕹️ **About me** 
@@ -97,12 +95,16 @@
 
 
 ## 📊 **My Stats**
-<br>
-  <img height="182em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nPr0nn&show_icons=true&theme=radical&line_height=27"/>
-<br>
+<div align="center">
+  <img height="182em" src="https://github-readme-stats.vercel.app/api?username=nPr0nn&show_icons=true&theme=radical&line_height=27"/>
+  <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nPr0nn&theme=synthwave&layout=compact"/>
+</div>
+<div align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nPr0nn&theme=radical" height="200em"/>
+</div>
 
 
-<div align="center"> <h3> 🌟 Let's get in touch 💫 </h3>
+<div align="center"> <h2> 🌟 Let's get in touch 💫 </h2>
   <a href="https://twitter.com/nPr0nn" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/npr0nn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucasnogueira064@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

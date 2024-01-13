@@ -90,7 +90,11 @@
 
 
 ## 📊 **My Stats**
-
+<br>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nPr0nn&theme=synthwave) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nPr0nn&theme=synthwave) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nPr0nn&theme=synthwave)
+<br>
 
 <div align="center"> <h3> 🌟 Let's get in touch 💫 </h3>
   <a href="https://twitter.com/nPr0nn" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>

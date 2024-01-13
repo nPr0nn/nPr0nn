@@ -92,6 +92,7 @@
 ## 📊 **My Stats**
 <br>
   <img height="182em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nPr0nn&show_icons=true&theme=radical&line_height=27"/>
+  <img height="182em" src="https://github-readme-stats.vercel.app/api?username=nPr0nn&show_icons=true&theme=radical&line_height=27"/>
 <br>
 
 <div align="center"> <h3> 🌟 Let's get in touch 💫 </h3>

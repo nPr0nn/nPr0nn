@@ -6,7 +6,7 @@
 * Mostly into Computer Graphics, Computer Vision and Artificial Intelligence
 * An average enjoyer of Competitive Programming, Open Sorcery and Physics Competitions
 
-<img align="right" src="https://media3.giphy.com/media/qQRfz2VfUbDeebczif/giphy.gif?cid=ecf05e47cy24qpjp0xfikzpoe3btqhabb9v47qzgzshrl7xv&rid=giphy.gif&ct=g" width="120" height="120" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
 
 ## 🎯 **My skills:**
 <details>

@@ -90,17 +90,14 @@
 </a>
 
 <a href="https://github.com/nPr0nn/Serendipity">
-  <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=Serendipity&theme=synthwave&border_radius=20"/>
+  <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=Serendipity&theme=radical&border_radius=20"/>
 </a>
 
 
 ## 📊 **My Stats**
 <div align="center">
   <img height="182em" src="https://github-readme-stats.vercel.app/api?username=nPr0nn&show_icons=true&theme=radical&line_height=27"/>
-  <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nPr0nn&theme=synthwave&layout=compact"/>
-</div>
-<div align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nPr0nn&theme=radical" height="200em"/>
+  <img height="182em" src="https://github-readme-streak-stats.herokuapp.com?user=nPr0nn&theme=radical"/>
 </div>
 
 

@@ -14,7 +14,7 @@
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="200" >
 
 ## 🎯 **My skills:**
-<details>
+<details open>
 <summary> 📝 Languagues</summary>
 <img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">

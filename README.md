@@ -5,3 +5,5 @@
 * Currently studying computer engineering at university of campinas (UNICAMP) and doing undergrad AI research
 * Mostly into Computer Graphics, Computer Vision and Artificial Intelligence
 * An average enjoyer of Competitive Programming, Open Sorcery and Physics Competitions
+
+<img align="right" src="https://media3.giphy.com/media/qQRfz2VfUbDeebczif/giphy.gif?cid=ecf05e47cy24qpjp0xfikzpoe3btqhabb9v47qzgzshrl7xv&rid=giphy.gif&ct=g" width="120" height="120" />

@@ -1,6 +1,6 @@
 <h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello! I'm Lucas, welcome to my Github! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h2>
 
-## 🕹️ **About me** 👾
+## 🕹️ **About me** 
 * I'm 21 years old!
 * Currently studying computer engineering at university of campinas (UNICAMP) and doing undergrad AI research
 * Mostly into Computer Graphics, Computer Vision and Artificial Intelligence
@@ -23,5 +23,10 @@
 <img align="center" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
 
-<!-- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
 </details>
+
+<details>
+<summary>🛠️ Frameworks and Libraries </summary>
+  
+</details>
+

@@ -78,7 +78,7 @@
 ## 🚀 **My Recent Adventures**
 
 <a href="https://github.com/nPr0nn/Rayden-Engine">
-  <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=Rayden-Engine&theme=radical&border_radius=20"/>
+  <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=Rayden-Engine&theme=dracula&border_radius=20"/>
 </a>
 
 <a href="https://github.com/nPr0nn/TrashDetection">
@@ -86,7 +86,7 @@
 </a>
 
 <a href="https://github.com/nPr0nn/Dungeon-and-Wumpus">
-  <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=Dungeon-and-Wumpus&theme=radical&border_radius=20"/>
+  <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=Dungeon-and-Wumpus&theme=tokyonight&border_radius=20"/>
 </a>
 
 <a href="https://github.com/nPr0nn/Serendipity">

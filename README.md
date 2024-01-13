@@ -10,7 +10,7 @@
 
 ## 🎯 **My skills:**
 <details>
-<summary>Languagues</summary>
+<summary> 📝 Languagues</summary>
 <img align="center" src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -29,4 +29,12 @@
 <summary>🛠️ Frameworks and Libraries </summary>
   
 </details>
+
+<div align="center"> <h3>Let's get in touch:</h3>
+  <a href="https://twitter.com/nPr0nn" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/npr0nn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lucasnogueira064@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://npr0nn.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-f35a5c?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/lucas-nogueira-079a69160/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
 

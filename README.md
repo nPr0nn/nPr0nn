@@ -77,8 +77,8 @@
 
 ## 🚀 **My Recent Adventures**
 
-<a href="https://github.com/nPr0nn/Rayden-Engine">
-  <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=Rayden-Engine&theme=dracula&border_radius=20"/>
+<a href="https://github.com/nPr0nn/Steganography-Trithemius">
+  <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=Steganography-Trithemius&theme=dracula&border_radius=20"/>
 </a>
 
 <a href="https://github.com/nPr0nn/TrashDetection">

@@ -12,7 +12,7 @@
 * An average enjoyer of Competitive Programming, Open Sorcery and Physics Competitions
 
 ## 🎯 **My skills:**
-<details open>
+<details>
 <summary> 📝 Languagues</summary>
 <img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">

@@ -6,7 +6,7 @@
 </div>
 
 ## 🕹️ **About me** 
-* I'm 21 years old!
+* I'm 22 years old!
 * Currently studying computer engineering at university of campinas (UNICAMP) and doing undergrad AI research
 * Mostly into Computer Graphics, Computer Vision and Artificial Intelligence
 * An average enjoyer of Competitive Programming, Open Sorcery and Physics Competitions

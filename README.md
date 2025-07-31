@@ -26,28 +26,30 @@
 <!-- Define repo names here for easy editing -->
 <!--
 REPO_1=RVDasm
-REPO_2=Steganography-Trithemius
-REPO_3=LLMUcamp
-REPO_4=Dungeon-and-Wumpus
-REPO_5=TrashDetection
-REPO_6=d2prl-sandbox
+REPO_2=Luminara-Raytracing
+REPO_3=Dungeon-and-Wumpus
+REPO_4=llama.cpp
+REPO_5=LLMUcamp
+REPO_6=Steganography-Trithemius
 -->
 
-| [![RVDasm](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=RVDasm&theme=dark)](https://github.com/nPr0nn/RVDasm) | [![Steganography-Trithemius](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=Steganography-Trithemius&theme=dark)](https://github.com/nPr0nn/Steganography-Trithemius) | [![LLMUcamp](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=LLMUcamp&theme=dark)](https://github.com/nPr0nn/LLMUcamp) |
+| [![RVDasm](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=RVDasm&theme=dark)](https://github.com/nPr0nn/RVDasm) | [![Luminara-Raytracing](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=Luminara-Raytracing&theme=dark)](https://github.com/nPr0nn/Luminara-Raytracing) | [![Dungeon-and-Wumpus](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=Dungeon-and-Wumpus&theme=dark)](https://github.com/nPr0nn/Dungeon-and-Wumpus) |
 |:--:|:--:|:--:|
-| [![Dungeon-and-Wumpus](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=Dungeon-and-Wumpus&theme=dark)](https://github.com/nPr0nn/Dungeon-and-Wumpus) | [![TrashDetection](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=TrashDetection&theme=dark)](https://github.com/nPr0nn/TrashDetection) | [![d2prl-sandbox](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=d2prl-sandbox&theme=dark)](https://github.com/nPr0nn/d2prl-sandbox) |
+| [![llama.cpp](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=llama.cpp&theme=dark)](https://github.com/nPr0nn/llama.cpp) | [![LLMUcamp](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=LLMUcamp&theme=dark)](https://github.com/nPr0nn/LLMUcamp) | [![Steganography-Trithemius](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=Steganography-Trithemius&theme=dark)](https://github.com/nPr0nn/Steganography-Trithemius) |
+
+---
 
 ### Skills
 
 <div style="font-size:0.7em; line-height:1.3em;">
   <p><b>Systems & Languages:</b><br/>
-  C · C++ · Rust · Zig · RISC-V · WebAssembly · OpenGL · WebGPU</p>
+  C · C++ · Rust · Zig · RISC-V · WebAssembly · OpenGL · WebGPU · Assembly · Bash · Makefile · CMake</p>
 
   <p><b>AI & Data Science:</b><br/>
-  Python · PyTorch · JAX · TensorFlow · OpenCV · Linux · Git</p>
+  Python · PyTorch · JAX · TensorFlow · OpenCV · Linux · Git · NumPy · SciPy · Pandas · Matplotlib · Scikit-learn</p>
 
-  <p><b>Web & Mobile:</b><br/>
-  Java · Kotlin · JavaScript · HTML/CSS · React · Three.js</p>
+  <p><b>Web:</b><br/>
+  Java · Kotlin · JavaScript · HTML/CSS · React · Three.js · Node.js · Express · TypeScript · WebGL</p>
 </div>
 
 ---

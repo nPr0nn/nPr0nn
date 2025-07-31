@@ -10,7 +10,20 @@
 
 - 🧑‍🎓 Computer Engineering Student
 - 🔬 Undergraduate Researcher in AI
-- 🎮 Interested in Computer Graphics, Vision, and Embedded Systems
+- 🎮 Interested in AI Reasoning, Computer Graphics, Compilers, Robotics and Embedded Systems
+
+---
+
+| [![LLMUcamp](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=LLMUcamp&theme=dracula)](https://github.com/nPr0nn/LLMUcamp) | [![TrashDetection](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=TrashDetection&theme=dracula)](https://github.com/nPr0nn/TrashDetection) | [![Serendipity](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=Serendipity&theme=dracula)](https://github.com/nPr0nn/Serendipity) |
+|:--:|:--:|:--:|
+
+---
+
+### 🛠️ Skills
+
+- C • C++ • Rust • Zig • RISC-V • WebAssembly • OpenGL • WebGPU •  
+- Python • PyTorch • Jax • TensorFlow • OpenCV • Linux • Git • 
+- Java • Kotlin • Javascript • HTML/CSS • React • ThreeJS •  
 
 ---
 

@@ -33,10 +33,9 @@ REPO_5=TrashDetection
 REPO_6=d2prl-sandbox
 -->
 
-| [![LLMUcamp](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=LLMUcamp&theme=dark)](https://github.com/nPr0nn/LLMUcamp) | [![TrashDetection](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=TrashDetection&theme=dark)](https://github.com/nPr0nn/TrashDetection) | [![Serendipity](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=Serendipity&theme=dark)](https://github.com/nPr0nn/Serendipity) |
+| [![RVDasm](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=RVDasm&theme=dark)](https://github.com/nPr0nn/RVDasm) | [![Steganography-Trithemius](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=Steganography-Trithemius&theme=dark)](https://github.com/nPr0nn/Steganography-Trithemius) | [![LLMUcamp](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=LLMUcamp&theme=dark)](https://github.com/nPr0nn/LLMUcamp) |
 |:--:|:--:|:--:|
-| [![Dungeon-and-Wumpus](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=Dungeon-and-Wumpus&theme=dark)](https://github.com/nPr0nn/Dungeon-and-Wumpus) | [![RVDasm](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=RVDasm&theme=dark)](https://github.com/nPr0nn/RVDasm) | [![SpellingLoop](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=SpellingLoop&theme=dark)](https://github.com/nPr0nn/SpellingLoop) |
----
+| [![Dungeon-and-Wumpus](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=Dungeon-and-Wumpus&theme=dark)](https://github.com/nPr0nn/Dungeon-and-Wumpus) | [![TrashDetection](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=TrashDetection&theme=dark)](https://github.com/nPr0nn/TrashDetection) | [![d2prl-sandbox](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=d2prl-sandbox&theme=dark)](https://github.com/nPr0nn/d2prl-sandbox) |
 
 ### Skills
 

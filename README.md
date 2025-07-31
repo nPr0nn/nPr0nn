@@ -14,16 +14,37 @@
 
 ---
 
-| [![LLMUcamp](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=LLMUcamp&theme=dracula)](https://github.com/nPr0nn/LLMUcamp) | [![TrashDetection](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=TrashDetection&theme=dracula)](https://github.com/nPr0nn/TrashDetection) | [![Serendipity](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=Serendipity&theme=dracula)](https://github.com/nPr0nn/Serendipity) |
-|:--:|:--:|:--:|
+### Recent Projects
 
+
+<!-- Define repo names here for easy editing -->
+<!--
+REPO_1=LLMUcamp
+REPO_2=TrashDetection
+REPO_3=Serendipity
+REPO_4=Dungeon-and-Wumpus
+REPO_5=RVDasm
+REPO_6=SpellingLoop
+-->
+
+| [![LLMUcamp](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=LLMUcamp&theme=dark)](https://github.com/nPr0nn/LLMUcamp) | [![TrashDetection](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=TrashDetection&theme=dark)](https://github.com/nPr0nn/TrashDetection) | [![Serendipity](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=Serendipity&theme=dark)](https://github.com/nPr0nn/Serendipity) |
+|:--:|:--:|:--:|
+| [![Dungeon-and-Wumpus](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=Dungeon-and-Wumpus&theme=dark)](https://github.com/nPr0nn/Dungeon-and-Wumpus) | [![RVDasm](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=RVDasm&theme=dark)](https://github.com/nPr0nn/RVDasm) | [![SpellingLoop](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=SpellingLoop&theme=dark)](https://github.com/nPr0nn/SpellingLoop) |
 ---
 
-### 🛠️ Skills
+### Skills
 
-- C • C++ • Rust • Zig • RISC-V • WebAssembly • OpenGL • WebGPU •  
-- Python • PyTorch • Jax • TensorFlow • OpenCV • Linux • Git • 
-- Java • Kotlin • Javascript • HTML/CSS • React • ThreeJS •  
+
+<div style="font-size:0.9em; line-height:1.3em;">
+  <p><b>Systems & Languages:</b><br/>
+  C · C++ · Rust · Zig · RISC-V · WebAssembly · OpenGL · WebGPU</p>
+
+  <p><b>AI & Data Science:</b><br/>
+  Python · PyTorch · JAX · TensorFlow · OpenCV · Linux · Git</p>
+
+  <p><b>Web & Mobile:</b><br/>
+  Java · Kotlin · JavaScript · HTML/CSS · React · Three.js</p>
+</div>
 
 ---
 

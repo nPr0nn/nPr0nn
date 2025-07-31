@@ -24,17 +24,22 @@
 ### Recent Projects
 
 <!--
+Define repo names here for easy editing (for your reference):
 REPO_1=RVDasm
-REPO_2=Luminara-Raytracing
-REPO_3=Dungeon-and-Wumpus
-REPO_4=llama.cpp
-REPO_5=LLMUcamp
-REPO_6=Steganography-Trithemius
+REPO_2=llama.cpp
+REPO_3=Luminara-Raytracing
+REPO_4=LLMUcamp
+REPO_5=Steganography-Trithemius
+REPO_6=Dungeon-and-Wumpus
 -->
 
-| [![RVDasm](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=RVDasm&theme=dark)](https://github.com/nPr0nn/RVDasm) | [![Luminara-Raytracing](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=Luminara-Raytracing&theme=dark)](https://github.com/nPr0nn/Luminara-Raytracing) | [![Dungeon-and-Wumpus](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=Dungeon-and-Wumpus&theme=dark)](https://github.com/nPr0nn/Dungeon-and-Wumpus) |
+| [![RVDasm](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=RVDasm&theme=dark)](https://github.com/nPr0nn/RVDasm) 
+| [![Luminara-Raytracing](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=Luminara-Raytracing&theme=dark)](https://github.com/nPr0nn/Luminara-Raytracing) 
+| [![Dungeon-and-Wumpus](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=Dungeon-and-Wumpus&theme=dark)](https://github.com/nPr0nn/Dungeon-and-Wumpus) |
 |:--:|:--:|:--:|
-| [![llama.cpp](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=llama.cpp&theme=dark)](https://github.com/nPr0nn/llama.cpp) | [![LLMUcamp](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=LLMUcamp&theme=dark)](https://github.com/nPr0nn/LLMUcamp) | [![Steganography-Trithemius](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=Steganography-Trithemius&theme=dark)](https://github.com/nPr0nn/Steganography-Trithemius) |
+| [![llama.cpp](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=llama.cpp&theme=dark)](https://github.com/nPr0nn/llama.cpp) 
+| [![LLMUcamp](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=LLMUcamp&theme=dark)](https://github.com/nPr0nn/LLMUcamp) 
+| [![Steganography-Trithemius](https://github-readme-stats.vercel.app/api/pin/?username=nPr0nn&repo=Steganography-Trithemius&theme=dark)](https://github.com/nPr0nn/Steganography-Trithemius) |
 
 ---
 

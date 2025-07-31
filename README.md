@@ -23,7 +23,6 @@
 
 ### Recent Projects
 
-<!-- Define repo names here for easy editing -->
 <!--
 REPO_1=RVDasm
 REPO_2=Luminara-Raytracing
